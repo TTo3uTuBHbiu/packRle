@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="org.kohsuke:youdebug:1.0" type="repository">
+    <properties maven-id="org.kohsuke:youdebug:1.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kohsuke/youdebug/1.0/youdebug-1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.1/junit-3.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy/1.6.5/groovy-1.6.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/antlr/antlr/2.7.7/antlr-2.7.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/asm/asm/2.2.3/asm-2.2.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/ant/ant/1.7.1/ant-1.7.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/ant/ant-launcher/1.7.1/ant-launcher-1.7.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/asm/asm-util/2.2.3/asm-util-2.2.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/asm/asm-tree/2.2.3/asm-tree-2.2.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/asm/asm-analysis/2.2.3/asm-analysis-2.2.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jline/jline/0.9.94/jline-0.9.94.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre64/lib/tools.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/args4j/args4j/2.0.16/args4j-2.0.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

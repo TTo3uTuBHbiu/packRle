@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="org.kohsuke.jinterop:j-interop:2.0.8-kohsuke-1" type="repository">
+    <properties maven-id="org.kohsuke.jinterop:j-interop:2.0.8-kohsuke-1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kohsuke/jinterop/j-interop/2.0.8-kohsuke-1/j-interop-2.0.8-kohsuke-1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/kohsuke/jinterop/j-interopdeps/2.0.8-kohsuke-1/j-interopdeps-2.0.8-kohsuke-1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/samba/jcifs/jcifs/1.2.19/jcifs-1.2.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$MAVEN_REPOSITORY$/org/kohsuke/jinterop/j-interop-parent/2.0.8-kohsuke-1" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
